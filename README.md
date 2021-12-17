@@ -7,7 +7,7 @@
 
 <h1>About the application: </h1>
 
-<p> Uma aplicação de controle mensal de finanças.
+<p> Finance Tracker é aplicação de controle de finanças mensal.
 
 <br/>
 
