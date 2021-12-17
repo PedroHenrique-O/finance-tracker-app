@@ -7,7 +7,7 @@
 
 <h1>About the application: </h1>
 
-<p>A aplicação de controle mensal de finanças.
+<p> Uma aplicação de controle mensal de finanças.
 
 <br/>
 
